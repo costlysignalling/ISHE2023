@@ -2,7 +2,7 @@
 
 Materials for the ISHE Summer Institute 2023 workshop in Czech Budweis
 
-Download the **script.R** if you hate typing and just want to ctrl+enter along. Also we will not everything so browsing this file is a possibility for those, who want to check how a 5-hour version of the workshop woul look like.
+Download the **script.R** if you hate typing and just want to ctrl+enter along. Also we will not have time to do everything, so browsing this file is a possibility for those who want to check how a 5-hour version of the workshop would look like.
 
 The **handout** word and pdf files (othrwise identical) contain the cheat sheet that you obtain in paper at the baginning of the workshop.
 

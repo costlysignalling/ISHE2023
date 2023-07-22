@@ -1,6 +1,7 @@
 # ISHE2023
 
 Materials for the **ISHE Summer Institute 2023** workshop
+## Building intuition for Bayesian statistics with the dumbest sampler ever
 
 Download the **script.R** if you hate typing and just want to ctrl+enter along. We may not have time to cover everything, so feel free to browse this file to see what a 5-hour version of this workshop might entail. You may want to start by running the R-studio from the **.Rproj** file of the same name saved in the same file as the script.
 
